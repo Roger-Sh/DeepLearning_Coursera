@@ -68,3 +68,6 @@ print(L)
 
 for i in range(1, 3):
     print(i)
+
+a = np.random.randn(2,2)
+print(a)
